@@ -1,4 +1,4 @@
-# Reuven M. Lerner, Python Workout, упражнение № 1
+# Reuven M. Lerner, Python Workout, упражнение № 1, игра на угадывание
 
 
 import random, json
